@@ -1,0 +1,28 @@
+.main{
+    border: 1px solid rgb(206, 200, 200);
+    display: inline-block;
+    
+}
+.main2{
+    position: relative;
+    right: 5px;
+    display: inline-block;
+}
+
+.box1{
+    display: inline-block;
+    height: 350px;
+    width: 200px;
+    background-color: #00a652;
+}
+.box2{
+    height: 175px;
+    width: 300px;
+background-color: #fef200;
+clear: both;
+}
+.box3{
+    height: 175px;
+    width: 300px;
+ background-color: #ed1b24;
+}
